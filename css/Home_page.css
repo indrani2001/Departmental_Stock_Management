@@ -1,0 +1,25 @@
+body {
+  background-image: url("./Pictures/Background.webp");
+}
+
+.main {
+  border: 5px solid;
+  border-radius: 800px;
+  padding: 70px;
+  display: block;
+}
+
+.form-center {
+  display: flex;
+  justify-content: center;
+}
+
+.input[type="button"] input[type="button"] input[type="button"] {
+  background-color: #04aa6d;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
